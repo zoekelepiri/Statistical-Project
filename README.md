@@ -1,2 +1,3 @@
 # Statistic-Project
-Statistic Project for University
+Statistical Project for University.
+
